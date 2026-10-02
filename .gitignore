@@ -1,0 +1,14 @@
+# C++ build files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+
+# VS Code
+.vscode/
+
+# Debug files
+*.pdb
